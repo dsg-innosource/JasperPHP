@@ -1,6 +1,6 @@
 {
-    "name": "cossou/jasperphp",
-    "description": "Create Reports in PHP with JasperReports",
+    "name": "dsginnosource/jasperphp",
+    "description": "Create Reports in PHP with JasperReports - Forked from cossou/jasperphp",
     "license": "MIT",
     "keywords": [
         "reports",
@@ -10,11 +10,15 @@
         "pdf",
         "java"
       ],
-    "homepage": "https://github.com/cossou/JasperPHP",
+    "homepage": "https://github.com/dsg-innosource/JasperPHP",
     "authors": [
         {
             "name": "Hélder Duarte",
             "email": "cossou@gmail.com"
+        },
+        {
+            "name": "Vince Mitchell",
+            "email": "vmitchell@innosource.com"
         }
     ],
     "autoload": {
